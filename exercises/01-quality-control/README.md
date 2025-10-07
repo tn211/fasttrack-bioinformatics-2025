@@ -1,6 +1,6 @@
 ### All commands below were executed using `fish` as my default shell.
 
--
+---
 
 #### displaying `samtools` version:
 
@@ -12,7 +12,7 @@
 	|-----------|----------|-------------|----------|
 	| samtools  | 1.22.1   | h267f7b9_0  | bioconda |
   
--
+---
 
 #### creating a nested directory structure:
 
@@ -23,7 +23,7 @@
 	data/                                         scripts/
 	exercises/
 
--
+---
 
 #### populating the directories with files:
 
@@ -32,7 +32,7 @@
 										 touch data/.gitkeep
 										 touch scripts/.gitkeep
                                       
--
+---
 
 #### using absolute paths:
 
@@ -43,7 +43,7 @@
 	cd excersises
 	 nano exercises/01-quality-control.md
 
--
+---
 
 
 
