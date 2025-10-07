@@ -41,7 +41,7 @@
 #### using relative paths:
 
 	cd excersises
-	 nano exercises/01-quality-control.md
+	nano exercises/01-quality-control.md
 
 ---
 
