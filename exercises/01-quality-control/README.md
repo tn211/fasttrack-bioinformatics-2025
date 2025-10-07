@@ -17,7 +17,7 @@
 #### creating a nested directory structure:
 
 	[I] fasttrack-bioinformatics-2025 ➜ mkdir notes exercises data scripts
-	 [I] fasttrack-bioinformatics-2025 ➜ ls                                                                     (bioinfo)
+	[I] fasttrack-bioinformatics-2025 ➜ ls                                                                     (bioinfo)
 
 	README.md                                     notes/
 	data/                                         scripts/
@@ -28,9 +28,9 @@
 #### populating the directories with files:
 
 	[I] fasttrack-bioinformatics-2025 ➜ touch notes/.gitkeep                                                   (bioinfo)
-										 touch exercises/.gitkeep
-										 touch data/.gitkeep
-										 touch scripts/.gitkeep
+										touch exercises/.gitkeep
+										touch data/.gitkeep
+										touch scripts/.gitkeep
                                       
 ---
 
