@@ -18,8 +18,7 @@
 
 #### creating a nested directory structure:
 
-[I] fasttrack-bioinformatics-2025 ➜ mkdir notes exercises data scripts
-
+[I] fasttrack-bioinformatics-2025 ➜ mkdir notes exercises data scripts <br>
 [I] fasttrack-bioinformatics-2025 ➜ ls                                                                     (bioinfo) <br>
 
 	README.md                                     notes/
@@ -44,8 +43,7 @@ cd /Users/benzenesea/fasttrack-bioinformatics-2025/exercises
 
 #### using relative paths:
 
-cd excersises
-
+cd excersises <br>
 nano exercises/01-quality-control.md
 
 ---
